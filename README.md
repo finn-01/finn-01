@@ -55,7 +55,7 @@
 <br/>
 <br/>
 
-[![Nguyen Van Sam's github activity graph](https://activity-graph.herokuapp.com/graph?username=samukma&theme=dracula)](https://github.com/samukma/github-readme-activity-graph)
+[![Nguyen Van Sam's github activity graph](https://activity-graph.herokuapp.com/graph?username=samukma&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br/>
