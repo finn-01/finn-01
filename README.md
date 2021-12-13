@@ -40,22 +40,22 @@
 
 <p align="center">
     <a href="https://github.com/samukma/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samukma&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=finn-01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/samukma/github-readme-stats"><img alt="Sam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samukma&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/samukma/github-readme-stats"><img alt="Sam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samukma&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/finn-01/github-readme-stats"><img alt="Sam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=finn-01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/finn-01/github-readme-stats"><img alt="Sam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finn-01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-[![Nguyen Van Sam's github activity graph](https://activity-graph.herokuapp.com/graph?username=samukma&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nguyen Van Sam's github activity graph](https://activity-graph.herokuapp.com/graph?username=finn-01&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br/>
@@ -65,9 +65,9 @@
 
 <p align="left">
 
-<a href = "https://www.facebook.com/samukma999/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
-<a href = "https://twitter.com/_samukma" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_samukma/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/fin.nn777/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<a href = "https://twitter.com/_finn__01" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/_finn.01/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC8rgePZf4Ka92e9AtYzlzNg" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
@@ -75,6 +75,6 @@
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=samukma">
+    <img src="https://komarev.com/ghpvc/?username=finn-01">
 </a>
-<a href="https://github.com/samukma?tab=followers"><img src="https://img.shields.io/github/followers/samukma?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/samukma?tab=followers"><img src="https://img.shields.io/github/followers/finn-01?label=Followers&style=social" alt="GitHub Badge"></a>
