@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java and Angular.**
 
-- 📫 How to reach me **nguyensam576@gmail.com**, **[Instagram](https://www.instagram.com/samnv.777/)** and **[Facebook](https://www.facebook.com/samnv6.6.6/)**
+- 📫 How to reach me **nguyensam576@gmail.com**, **[Instagram](https://www.instagram.com/_finn.01/)** and **[Facebook](https://www.facebook.com/fin.nn777/)**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
