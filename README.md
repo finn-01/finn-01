@@ -39,7 +39,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/samukma/github-readme-streak-stats">
+    <a href="https://github.com/finn-01/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=finn-01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -77,4 +77,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=finn-01">
 </a>
-<a href="https://github.com/samukma?tab=followers"><img src="https://img.shields.io/github/followers/finn-01?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/finn-01?tab=followers"><img src="https://img.shields.io/github/followers/finn-01?label=Followers&style=social" alt="GitHub Badge"></a>
