@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Hoc vien Ky thuat Mat ma (Vietnam Academy of Cryptography Techniques)**
 
-- 🌱 I’m currently learning **Java and Angular.**
+- 🌱 I’m currently learning **Java and ReactJS.**
 
 - 📫 How to reach me **nguyensam576@gmail.com**, **[Instagram](https://www.instagram.com/_finn.01/)** and **[Facebook](https://www.facebook.com/fin.nn777/)**
 
