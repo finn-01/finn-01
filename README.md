@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **nguyensam576@gmail.com**, **[Instagram](https://www.instagram.com/_finn.01/)**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 
 
