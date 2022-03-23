@@ -17,20 +17,20 @@
 
 <p align="center">
     <a href="https://github.com/finn-01/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=finn-01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saamnguyen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/finn-01/github-readme-stats"><img alt="Sam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=finn-01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/finn-01/github-readme-stats"><img alt="Sam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saamnguyen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <!--   <a href="https://github.com/finn-01/github-readme-stats"><img alt="Sam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finn-01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <br/>
 <br/>
 <br/>
 
-[![Nguyen Van Sam's github activity graph](https://activity-graph.herokuapp.com/graph?username=finn-01&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nguyen Van Sam's github activity graph](https://activity-graph.herokuapp.com/graph?username=saamnguyen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br/>
@@ -50,6 +50,6 @@
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=finn-01">
+    <img src="https://komarev.com/ghpvc/?username=saamnguyen">
 </a>
-<a href="https://github.com/finn-01?tab=followers"><img src="https://img.shields.io/github/followers/finn-01?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/saamnguyen?tab=followers"><img src="https://img.shields.io/github/followers/saamnguyen?label=Followers&style=social" alt="GitHub Badge"></a>
