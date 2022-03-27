@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Hoc vien Ky thuat Mat ma (Vietnam Academy of Cryptography Techniques)**
+- 🔭 I’m currently working on **Hoc vien Ky thuat Mat ma (Vietnam Academy of Cryptography Techniques - KMA)**
 
 
 
