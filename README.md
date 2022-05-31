@@ -7,7 +7,7 @@
 
 
 
-- 📫 How to reach me **nguyensam576@gmail.com**, **[Instagram](https://www.instagram.com/_finn.01/)**
+- 📫 How to reach me **nguyensam576@gmail.com**, **[Instagram](https://www.instagram.com/saamnguyen.insta)**
 
 
 
@@ -16,7 +16,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/finn-01/github-readme-streak-stats">
+    <a href="https://github.com/saamnguyen/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saamnguyen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -24,7 +24,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/finn-01/github-readme-stats"><img alt="Sam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saamnguyen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/saamnguyen/github-readme-stats"><img alt="Sam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saamnguyen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <!--   <a href="https://github.com/finn-01/github-readme-stats"><img alt="Sam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finn-01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <br/>
 <br/>
@@ -41,8 +41,8 @@
 <p align="left">
 
 
-<a href = "https://twitter.com/_finn__01" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_finn.01/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/_saamnguyen__" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/saamnguyen.insta/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
